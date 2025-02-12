@@ -1,0 +1,362 @@
+.container {
+    position: relative;
+    background-color: aqua;
+    border-radius: 20px;
+    width: 1200px;
+    height: 800px;
+    top: 20px;
+    padding-left: 100px;
+}
+
+.foto {
+    position: relative;
+    border-radius: 15px;
+    width: 310px;
+    height: 350px;
+    left: 690px;
+    top: 180px;
+    margin-left: 120px;
+}
+
+/* --------------------NIK---------------------- */
+                                         
+.NIK {                                   
+    position: relative;
+    font-family: monospace;
+    font-size: 40px;
+    top: -219px;
+    font-weight: large; 
+    margin-left: 80px;
+}
+
+.n1 {
+    position: relative;
+    font-family: monospace;
+    font-size: 40px;
+    font-weight: 500px;
+    top: -298px;
+    left: 150px;
+    margin-left: 80px;
+}
+
+.noNIK {
+    position: relative;
+    font-family: monospace;
+    font-size: 40px;
+    top: -374px;
+    left: 200px;
+    font-weight: large;
+    margin-left: 80px;
+}
+
+/* --------------------NAMA---------------------- */
+
+.Nama {
+    position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+    top: -373px;
+    font-size: 15px;
+    margin-left: 80px;
+}
+
+.n2 {
+    position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    top: -414px;
+    left: 170px;
+    font-weight: 500px;
+    margin-left: 80px;
+}
+
+.IsiNama {
+    position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+    top: -453px;
+    left: 205px;
+    font-size: 15px;
+    margin-left: 80px;
+}
+
+/* --------------------Jenis Kelamin---------------------- */
+
+.Jk {
+    position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    top: -450px;
+    margin-left: 80px;
+}
+
+.n3 {
+    position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    top: -491px;
+    left: 170px;
+    margin-left: 80px;
+}
+
+.JKk {
+    position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    top: -529px;
+    left: 205px;
+    margin-left: 80px;
+}
+
+/* --------------------Alamat---------------------- */
+
+.Alamat {
+    position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    top: -523px;
+    margin-left: 80px;
+}
+
+.n4 {
+    position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    top: -563px;
+    left: 170px;
+    margin-left: 80px;
+}
+
+.IsiAlamat {
+    position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    top: -602px;
+    left: 205px;
+    margin-left: 80px;
+}
+
+/* --------------------RT/RW---------------------- */
+
+.RT {
+    position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    top: -590px; 
+    left: 40px;
+    margin-left: 80px;
+}
+
+.n5 {
+    position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    top: -632px;
+    left: 170px;
+    margin-left: 80px;
+}
+
+.RW {
+    position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    top: -670px;
+    left: 205px;
+    margin-left: 80px;
+}
+
+/* --------------------Kelurahan---------------------- */
+
+.Kel {
+    position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    top: -663px;
+    left: 40px;
+    margin-left: 80px;
+}
+
+.n6 {
+    position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    top: -703px;
+    left: 170px;
+    margin-left: 80px;
+}
+
+.Des {
+    position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    top: -742px;
+    left: 205px;
+    margin-left: 80px;
+}
+
+/* --------------------Kecamatan---------------------- */
+
+.Kec {
+    position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    top: -734px;
+    left: 40px;
+    margin-left: 80px;
+}
+
+.n7 {
+    position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    top: -775px;
+    left: 170px;
+    margin-left: 80px;
+}
+
+.Pon {
+    position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    top: -814px;
+    left: 205px;
+    margin-left: 80px;
+}
+
+/* --------------------Agama---------------------- */
+
+.Agama {
+    position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    top: -799px;
+    margin-left: 80px;
+}
+
+.n8 {
+    position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    top: -840px;
+    left: 170px;
+    margin-left: 80px;
+}
+
+.Agma {
+    position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    top: -879px;
+    left: 205px;
+    margin-left: 80px;
+}
+
+/* --------------------Status---------------------- */
+
+.Status {
+    position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    top: -869px;
+    margin-left: 80px;
+}
+
+.n9 {
+    position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    top: -910px;
+    left: 170px;
+    margin-left: 80px;
+}
+
+.st {
+    position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    top: -949px;
+    left: 205px;
+    margin-left: 80px;
+}
+
+/* --------------------Pekerjaan---------------------- */
+
+.Pekerjaan {
+    position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    top: -935px;
+    margin-left: 80px;
+}
+
+.n10 {
+    position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    top: -976px;
+    left: 170px;
+    margin-left: 80px;
+}
+
+.kerja {
+    position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    top: -1016px;
+    left: 205px;
+    margin-left: 80px;
+}
+
+/* --------------------Kewarganegaraan---------------------- */
+
+.Warga {
+    position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    top: -998px;
+    margin-left: 80px;
+}
+
+.n11 {
+    position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    top: -1039px;
+    left: 170px;
+    margin-left: 80px;
+}
+
+.WNI {
+    position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    top: -1078px;
+    left: 205px;
+    margin-left: 80px;
+}
+
+/* --------------------Masa Berlaku---------------------- */
+
+.masa {
+    position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    top: -1058px;
+    margin-left: 80px;
+}
+
+.n12 {
+    position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    top: -1099px;
+    left: 170px;
+    margin-left: 80px;
+}
+
+.berlaku {
+    position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    top: -1138px;
+    left: 205px;
+    margin-left: 80px;        
+}

@@ -1,0 +1,103 @@
+.container {
+    background-image: url(background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 20px;
+    background-color: aqua;
+    margin-left: 160px;
+    width: 80%;
+    position: relative;
+    height: 800px;
+}
+
+.nav {
+    margin-top: 10px;
+    margin-bottom: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    height: 80px;
+    border-radius: 20px;
+    padding-top: 15px;
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.nik {
+    position: relative;
+    width: 54px;
+    margin-left: 60px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    font-weight: 550;
+}
+
+.titik {
+    width: 15px;
+    position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 248px;
+    font-size: 30px;
+    font-weight: 550;
+    top: -68px;
+}
+
+.cetak1 {
+    width: 350px;
+    position: relative;
+    font-size: 30px;
+    font-weight: 550;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 320px;
+    top: -132px;
+}
+
+.biodata1 {
+    width: 175px;
+    position: absolute;
+    top: 190px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 60px;
+    font-size: 20px;
+}
+
+.biodata2 {
+    width: 7px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    margin-left: 250px;
+    top: 190px;
+    font-size: 20px;
+}
+
+.cetak1 {
+    padding-bottom: 30px;
+    position: relative;
+    left: -320px;
+    top: -15px;
+    font-size: 30px;
+}
+
+.biodata3 {
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    width: 350px;
+    height: 580px;
+    margin-left: 320px;
+    top: -118px;
+    font-size: 20px;
+    z-index: 999;
+}
+
+.foto {
+    position: absolute;
+    height: 300px;
+    top: 100px;
+    left: 450px;
+}
+
+.foto1 {
+    position: absolute;
+    left: 500px;
+    top: 100px;
+    height: 350px;
+}
